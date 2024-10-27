@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    background-color: rgb(191, 221, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+}
+
+p {
+    color: rgb(0, 0, 0); 
+}
+
+.ejemploClase {
+    color: rgb(135, 135, 255);
+    font-size: 20px;
+}
+
+#ejemploid {
+    color: rgb(242, 140, 109); 
+}
+
+#ejemploid {
+    color: rgb(39, 11, 162) !important; 
+}
+
+.contenedor p {
+    color: rgb(174, 80, 245); 
+}
+
+.contenedor .ejemploClase {
+    color: rgb(58, 175, 58); 
+    font-size: 22px; 
+}
+
+.contenedor #ejemploid {
+    color: rgb(235, 116, 235); 
+}

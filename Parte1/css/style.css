@@ -1,0 +1,27 @@
+body{
+    background-color: cornflowerblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor{
+    background-color: rgb(191, 221, 255);
+    align-items: center; 
+    justify-content: center; 
+}
+
+p {
+    color: rgb(0, 40, 158); 
+}
+
+.ejemploClase {
+    color: rgb(135, 135, 255); 
+}
+
+#ejemploid {
+    color: rgb(242, 140, 109); 
+}
+
+#ejemploid {
+    color: rgb(186, 121, 0) !important; 
+}

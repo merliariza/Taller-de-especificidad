@@ -1,0 +1,11 @@
+p {
+    color: blue !important;
+    }
+
+.container p {
+    color: green;
+    }
+
+#parrafo {
+    color: red;
+    }
