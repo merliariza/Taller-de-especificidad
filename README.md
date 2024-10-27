@@ -35,8 +35,30 @@ Parte 3: Ejercicios prácticos
   
 Parte 4: Desafío final
 -
-  Desafío, Diseñando una página completa con Estilos Conflictivos:
-  
+  Desafío, Diseñando una página completa con Estilos Conflictivos:<br>
+  </br>Desafío CSS:<br>
+  </br>Teniendo el codigo:<div class="header" id="top">
+<h1>Bienvenido</h1>
+<p id="intro">Este es el sitio web.</p>
+</div>
+<div class="content">
+<h2>Contenido principal</h2>
+<p class="highlight">Texto destacado</p>
+</div>
+<footer id="footer">
+<p>Pie de página</p>
+</footer><br>
+</br>Desafío CSS:
+El <h1> en el .header debe ser de color blanco.
+El texto del <p> en .content debe ser rojo.
+El texto del <footer> debe ser gris<br>
+  </br>Pistas:
+Usar selectores combinados (clases y etiquetas).
+Resolver conflictos de estilo con la especificidad correcta<br>
+  </br>![alt text](image-9.png)<br>
+  </br>![alt text](image-8.png)<br>
+  </br>En la imagen se muestran los cambios hechos, para visualizar el ejercicio como se solicita.
+
 Parte 5: Revisión y discusión
   Conclusión:<br>
     <br/>En conclusión, la especificidad es una herramienta en CSS que permite un control  sobre el diseño, y la resolución de conflictos en el navegador; el cálculo de especificidad se basa en como entre más específica sea una regla, más alta será la prioridad. Entender los selectores permiten tener un mayor dominio del diseño; !import funciona como una regla prioritaria y se sobreescribe a otras a menos que también tengan !import.

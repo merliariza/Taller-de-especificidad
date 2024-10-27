@@ -9,3 +9,19 @@
 #footer {
     color: grey;
 }
+
+body {
+    background-color: #60f8d4;
+}
+
+footer#footer{
+    color: grey;
+}
+
+body div.content p.nuevo{
+    color: red;
+}
+
+body div#top.header h1{
+    color: white;
+}
